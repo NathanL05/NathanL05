@@ -23,7 +23,7 @@ I build production-ready tools for cloud infrastructure management.
 
 ### 📫 Connect
 
-- [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nathanl1605@gmail.com)  nathanl1605@gmail.com
+- Email: nathanl1605@gmail.com
 
 
 

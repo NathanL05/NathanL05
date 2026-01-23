@@ -6,11 +6,17 @@ I build production-ready tools for cloud infrastructure management.
 
 ### 🚀 Current Projects
 
-**AWS Cost Analyzer** - Production-ready Python CLI tool
+**AWS Cost Analyzer** - Cloud Cost Optimization Tool 
 - Identifies cost leaks in AWS accounts (EC2, EBS, Snapshots, Elastic IPs)
 - Multi-region scanning with parallel execution
 - Docker containerized with CI/CD pipeline
 - [View Project](https://github.com/NathanL05/aws-cost-analyzer)
+
+
+**Sentinel** - Automated Docker Resource Leak Detector
+- In Progress
+- [View Project](https://github.com/NathanL05/Sentinel)
+
 
 ### 💻 Tech Stack
 

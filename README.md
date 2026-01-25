@@ -14,7 +14,8 @@ I build production-ready tools for cloud infrastructure management.
 
 
 **Sentinel** - Automated Docker Resource Leak Detector
-- In Progress
+- FastAPI-based Python application for real-time Docker container monitoring
+- Production-ready CI/CD pipeline with comprehensive testing
 - [View Project](https://github.com/NathanL05/Sentinel)
 
 

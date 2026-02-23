@@ -1,6 +1,6 @@
 # Hi, I'm Nathan 👋
 
-## DevOps Engineer | AWS & Python Enthusiast
+## Platform Engineer Intern | AWS • Terraform • Kubernetes • Nx
 
 I build production-ready tools for cloud infrastructure management.
 

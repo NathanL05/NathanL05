@@ -13,10 +13,8 @@ I build production-ready tools for cloud infrastructure management.
 - [View Project](https://github.com/NathanL05/aws-cost-analyzer)
 
 
-**Sentinel** - Automated Docker Resource Leak Detector
-- FastAPI-based Python application for real-time Docker container monitoring
-- Production-ready CI/CD pipeline with comprehensive testing
-- [View Project](https://github.com/NathanL05/Sentinel)
+**DevLaunch Portal** - In Progress
+- [View Project](https://github.com/NathanL05/DevLaunch-Portal)
 
 
 ### 💻 Tech Stack

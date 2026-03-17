@@ -1,35 +1,53 @@
-# Hi, I'm Nathan 👋
+# Hey, I'm Nathan 👋
 
-## Platform Engineer Intern | AWS • Terraform • Kubernetes • Nx
+**Aspiring Site Reliability Engineer** | Software Engineer Intern
 
-I build production-ready tools for cloud infrastructure management.
+I build production-ready tools for cloud infrastructure management, with a focus on reliability, observability, and automation.
 
-### 🚀 Current Projects
+---
 
-**AWS Cost Analyzer** - Cloud Cost Optimization Tool 
+## 🚀 Current Projects
+
+### AWS Cost Analyzer — Cloud Cost Optimization Tool
 - Identifies cost leaks in AWS accounts (EC2, EBS, Snapshots, Elastic IPs)
 - Multi-region scanning with parallel execution
 - Docker containerized with CI/CD pipeline
-- [View Project](https://github.com/NathanL05/aws-cost-analyzer)
 
+### PulseStack *(In Progress)*
 
-**DevLaunch Portal** - In Progress
-- [View Project](https://github.com/NathanL05/DevLaunch-Portal)
+---
 
+## 💻 Tech Stack
 
-### 💻 Tech Stack
+### Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-web-services&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+### Observability & Reliability
+![Prometheus](https://img.shields.io/badge/Prometheus-%23E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 
-### 🎯 Goals for 2026
+### CI/CD & Automation
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232088FF.svg?style=for-the-badge&logo=github-actions&logoColor=white)
 
-- [ ] Master Kubernetes and Terraform
-- [ ] Build Sentinel project with FastAPI
+### Languages
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-%234EAA25.svg?style=for-the-badge&logo=gnubash&logoColor=white)
 
-### 📫 Connect
+---
 
-- Email: nathanl1605@gmail.com
+## 🎯 Goals for 2026
 
+- [ ] Build deep expertise in observability — metrics, logs, and distributed tracing (Prometheus, Grafana, OpenTelemetry)
+- [ ] Master incident management: on-call practices, runbooks, SLOs, and postmortems
+- [ ] Level up Kubernetes skills — cluster operations, autoscaling, and reliability patterns
+- [ ] Earn AWS Solutions Architect or CKA (Certified Kubernetes Administrator) certification
 
+---
 
+## 📫 Connect
 
+- 📧 [nathanl1605@gmail.com](mailto:nathanl1605@gmail.com)

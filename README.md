@@ -13,7 +13,10 @@ I build production-ready tools for cloud infrastructure management, with a focus
 - Multi-region scanning with parallel execution
 - Docker containerized with CI/CD pipeline
 
-### PulseStack *(In Progress)*
+### PulseStack - Linux/macOS System Monitoring Pipeline
+- Python agent collects CPU, memory, disk, and network metrics via psutil, exposing them in Prometheus format over HTTP
+- Prometheus scrapes metrics every 15 seconds, stores time-series data, and evaluates alerting rules (high CPU, low disk, etc.)
+- Grafana dashboard auto-provisions on startup with live graphs and alert visualisation
 
 ---
 

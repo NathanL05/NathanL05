@@ -18,6 +18,16 @@ I build production-ready tools for cloud infrastructure management, with a focus
 - Prometheus scrapes metrics every 15 seconds, stores time-series data, and evaluates alerting rules (high CPU, low disk, etc.)
 - Grafana dashboard auto-provisions on startup with live graphs and alert visualisation
 
+### LogDrain — Centralised Log Pipeline
+- Bash log generator produces realistic access, error, and auth logs at a steady rate, with periodic "incident" bursts of 5xx responses
+- Promtail tails the log files and ships them to Loki, which indexes by label (job, filename, log_type) for fast LogQL queries
+- Grafana dashboard auto-provisions with log volume, error rate, top error messages, and a live log stream — fully containerised with `make up`
+
+### NetProbe — Networking, DNS & TLS Toolkit `🚧 In Progress`
+- Multi-service setup behind an Nginx reverse proxy with local TLS (mkcert), routing PulseStack and LogDrain through a single HTTPS entry point
+- DNS resolution exercises with `dig` and `/etc/hosts` overrides, plus packet capture and analysis with `tcpdump`/Wireshark
+- Building a Bash network diagnostic script (`netprobe.sh`) that wraps `mtr`, `ss`, `curl -w` timing, and TLS cert inspection — the kind of toolkit you'd actually reach for during an outage
+
 ---
 
 ## 💻 Tech Stack

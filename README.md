@@ -1,6 +1,6 @@
 # Hey, I'm Nathan 👋
 
-**Aspiring Site Reliability Engineer** | Software Engineer Intern
+Software Engineer Intern
 
 I build production-ready tools for cloud infrastructure management, with a focus on reliability, observability, and automation.
 

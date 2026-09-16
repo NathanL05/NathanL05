@@ -1,8 +1,6 @@
 # Hey, I'm Nathan 👋
 
-Software Engineer Intern
-
-I build production-ready tools for cloud infrastructure management, with a focus on reliability, observability, and automation.
+I enjoy building tools for cloud infrastructure management, with a focus on reliability, observability, and automation.
 
 ---
 

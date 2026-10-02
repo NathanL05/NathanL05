@@ -35,14 +35,9 @@ round-robin on TTFT and p99 tail latency.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=NathanL05&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&hide_rank=true" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanL05&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" />
 
-<img src="https://streak-stats.demolab.com?user=NathanL05&theme=tokyonight&hide_border=true" />
-
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NathanL05&theme=tokyonight" />
-
-<img src="https://raw.githubusercontent.com/NathanL05/NathanL05/output/github-snake-dark.svg" />
 
 </div>
 

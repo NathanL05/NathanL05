@@ -1,31 +1,52 @@
-# Hey, I'm Nathan 👋
+<div align="center">
 
-I enjoy building tools for cloud infrastructure management, with a focus on reliability, observability, and automation.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=160&section=header&text=Nathan%20Lam&fontColor=c0caf5&fontSize=44&fontAlignY=38" />
 
----
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=520&lines=Platform+%2F+Cloud+Engineer;AI+inference+infrastructure;Building+a+prefix-aware+LLM+gateway+in+Go" />
 
-## 💻 Tech Stack
+</div>
 
-### Cloud & Infrastructure
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-web-services&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+### 🚀 Building now
 
-### Observability & Reliability
-![Prometheus](https://img.shields.io/badge/Prometheus-%23E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+**Prefix-aware LLM inference gateway**: a Go router in front of vLLM
+replicas. It routes on prompt prefix to reuse each replica's KV cache, and is benchmarked against
+round-robin on TTFT and p99 tail latency.
 
-### CI/CD & Automation
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232088FF.svg?style=for-the-badge&logo=github-actions&logoColor=white)
+### 🛠️ Stack
 
-### Languages
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-%234EAA25.svg?style=for-the-badge&logo=gnubash&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![vLLM](https://img.shields.io/badge/vLLM-30A2FF?style=flat-square)
 
----
+**Learning:**
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 
-## 📫 Connect
+### 📊 Activity
 
-- 📧 [nathanl1605@gmail.com](mailto:nathanl1605@gmail.com)
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=NathanL05&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&hide_rank=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanL05&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" />
+
+<img src="https://streak-stats.demolab.com?user=NathanL05&theme=tokyonight&hide_border=true" />
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=NathanL05&theme=tokyo-night&hide_border=true&area=true" />
+
+<img src="https://raw.githubusercontent.com/NathanL05/NathanL05/output/github-snake-dark.svg" />
+
+</div>
+
+### 📫 Connect
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nathanl1605@gmail.com)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:1a1b27&height=90&section=footer" width="100%" />

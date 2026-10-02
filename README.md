@@ -26,7 +26,8 @@ round-robin on TTFT and p99 tail latency.
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![vLLM](https://img.shields.io/badge/vLLM-30A2FF?style=flat-square)
 
-**Learning:**
+### 📚 Learning
+
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 
@@ -39,7 +40,7 @@ round-robin on TTFT and p99 tail latency.
 
 <img src="https://streak-stats.demolab.com?user=NathanL05&theme=tokyonight&hide_border=true" />
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=NathanL05&theme=tokyo-night&hide_border=true&area=true" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NathanL05&theme=tokyonight" />
 
 <img src="https://raw.githubusercontent.com/NathanL05/NathanL05/output/github-snake-dark.svg" />
 
@@ -47,6 +48,6 @@ round-robin on TTFT and p99 tail latency.
 
 ### 📫 Connect
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nathanl1605@gmail.com)
+📧 [nathanl1605@gmail.com](mailto:nathanl1605@gmail.com)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:1a1b27&height=90&section=footer" width="100%" />
